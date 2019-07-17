@@ -2,7 +2,7 @@
   "users": [
     { "username": "admin", "password": "admin", "email": "oskarpra18@gmail.com" },
     { "username": "user", "password": "user", "email": "thisisuser@gmail.com" },
-    { "username": "god", "password": "god", "email": "tuhantidaktidur@gmail.com" },
+    { "username": "god", "password": "god", "email": "tuhantidaktidur@gmail.com" }
   ]
 }
   
