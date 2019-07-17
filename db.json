@@ -5,7 +5,7 @@
     { "username": "god", "password": "god", "email": "tuhantidaktidur@gmail.com" }
   ],
   
-  "galery": [
+  "gallery": [
     { "tittle": "Iron Man", "imageUrl": "https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-14-512.png" },
     { "tittle": "Bat man", "imageUrl": "https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-22-512.png" }, 
     { "tittle": "Groot", "imageUrl": "https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-21-512.png" }, 
